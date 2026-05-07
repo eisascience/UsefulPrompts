@@ -14,11 +14,8 @@ STRICT REQUIREMENTS:
 
 2. CURATION (CRITICAL)
 You must actively choose:
-- The most informative PCA figure
-- The key mixed-model summary figure
-- The core mechanistic model panel
-- The key LN-level plots
-- The ROC / ensemble plots
+- The most informative figure
+- The most key figures to tell the story end-to-end
 
 Remove redundancy. This is a curated talk, not a dump.
 
@@ -31,10 +28,8 @@ Sections:
 - Motivation
 - Data + pipeline
 - Feature space
-- Modeling results
-- Mechanistic interpretation
-- LN-level results
-- Predictive modeling
+- Modeling results at various scopes
+- Translational interpretation
 - Final synthesis
 
 4. FIGURE INTEGRATION
@@ -49,24 +44,10 @@ You MUST include a dedicated slide:
 
 “How many samples show spreading?”
 
-Using real values:
-
-Section-level:
-- Mechanistic: 12 / 3328
-- Rule-based: 972 / 3328
-
-LN-level:
-- Mechanistic: 2 / 386
-- Rule-based: 100 / 386
 
 6. SYNTHESIS SLIDES (CRITICAL)
+- make sure you are synthesising a narrative based on the data and results
 
-Add slides that answer:
-
-- What defines spatial spread?
-- What features matter most?
-- What do mechanistic models reveal?
-- Why does spread prediction fail?
 
 7. VISUAL QUALITY
 - Large figures (not tiny thumbnails)
